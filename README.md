@@ -4,7 +4,7 @@ Please provide the following:
 
 https://github.com/pshukla25/hello-jenkins/invitations     (hello-jenkins)
 
-https://github.com/pshukla25/node-pipeline/invitations (node-pipeline)
+https://github.com/pshukla25/node-pipeline/invitations     (node-pipeline)
 
 2.Provide the public DNS name for your Jenkins instance (and any relevant credentials)
 
