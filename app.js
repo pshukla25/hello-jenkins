@@ -5,7 +5,7 @@ var app = express();
 var reload = require('reload')
 
 app.get('/', function (req, res) {
-  res.send('Prestoo Magico!!!');
+  res.send('Prestoo Magico');
 });
 
 reload(app);
